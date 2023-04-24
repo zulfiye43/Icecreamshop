@@ -1,0 +1,45 @@
+
+[
+    
+    {
+        "id": 1,
+        "title" : "Erdbeere",
+        "imageName" : "erdbeere"
+    },
+    {
+        "id": 2,
+        "title" : "Banane",
+        "imageName" : "banane"
+    },
+    {
+        "id": 3,
+        "title": "Wassermelone",
+        "imageName": "wassermelone"
+    },
+    {
+        "id": 4,
+        "title": "Birne",
+        "imageName": "birne"
+    },
+    {
+        "id": 5,
+        "title": "Zitrone",
+        "imageName": "zitrone"
+    },
+    {
+        "id": 6,
+        "title": "Cookie",
+        "imageName": "cookie"
+    },
+    {
+        "id": 7,
+        "title": "Mango",
+        "imageName": "mango"
+    },
+    {
+        "id": 8,
+        "title": "Schoko",
+        "imageName": "schoko"
+    }
+]
+
